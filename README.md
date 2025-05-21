@@ -1,12 +1,41 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# CV React - Miguel Aguirre
 
-Currently, two official plugins are available:
+Este proyecto es una hoja de vida (CV) completamente modular desarrollada en **React** con **Vite**. Está estructurada por componentes funcionales anidados, cada uno representando una sección específica del currículum: Cabecera, Perfil, Experiencia y Educación.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Vista previa
 
-## Expanding the ESLint configuration
+![Vista previa del CV](cv-react/src/cv.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> Asegúrate de haber colocado tu captura en `./assets/screenshot.png`. Puedes cambiar esta ruta si usas otra ubicación.
+
+## 🚀 Tecnologías usadas
+
+- React
+- Vite
+- JavaScript
+- HTML/CSS
+- Git & GitHub
+
+## 🧩 Estructura de componentes
+
+- `CabeceraCV`: nombre, título profesional y datos de contacto.
+- `Perfil`: descripción personal y habilidades.
+- `Experiencia`: lista de experiencias laborales o proyectos.
+- `Educacion`: formación académica y cursos complementarios.
+
+## 🔧 Cómo ejecutar el proyecto
+
+```bash
+# 1. Clona el repositorio
+git clone https://github.com/miguelucho425526/cv-react
+
+# 2. Entra al directorio del proyecto
+cd cv-react
+
+# 3. Instala las dependencias
+npm install
+
+# 4. Ejecuta el servidor de desarrollo
+npm run dev
