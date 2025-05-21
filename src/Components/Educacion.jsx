@@ -10,7 +10,7 @@ export default function Educacion() {
           <strong>Técnico en Programación de Aplicaciones</strong> – SENA (2018–2020)
         </li>
         <li>
-          <strong>Curso: Inteligencia Artificial con Python</strong> – Platzi (2024)
+          <strong>Curso: Ingenieria en sistemas</strong> – Platzi (2024)
         </li>
         <li>
           <strong>Curso: Fundamentos de Ciberseguridad</strong> – Cisco Networking Academy (2023)
