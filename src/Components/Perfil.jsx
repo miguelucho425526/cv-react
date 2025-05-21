@@ -3,10 +3,10 @@ export default function Perfil() {
     <section>
       <h2>Perfil</h2>
       <p>
-        Tecnólogo en Análisis y Desarrollo de Software con experiencia en desarrollo web y móvil. 
-        Apasionado por la tecnología, con habilidades en lenguajes como Python, javascript, php, Java y bases de datos 
-        y un alto compromiso con la puntualidad en la entrega de proyectos.
-        Conocimientos varios en Ciberseguridad y hackingwifi
+        Desarrollador de software con formación en Ingeniería de Software y experiencia en aplicaciones web y análisis de datos. 
+        Enfocado en ofrecer soluciones eficientes mediante el uso de tecnologías como React, Node.js, Python y SQL. 
+        Interesado en la automatización de procesos, la inteligencia artificial y el desarrollo de sistemas escalables. 
+        Capacidad de trabajo en equipo, aprendizaje autónomo y adaptación a nuevos entornos tecnológicos.
       </p>
     </section>
   );
