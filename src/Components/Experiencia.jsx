@@ -4,20 +4,20 @@ export default function Experiencia() {
       <h3>Experiencia Profesional</h3>
       <ul>
         <li>
-          <strong>Desarrollador Fullstack</strong> – Inemsite (2022–2024)
-          <p>Diseño e implementación de interfaces web responsivas usando React y Tailwindcss. Integración con APIs REST y optimización del rendimiento.</p>
+          <strong>Desarrollador Frontend</strong> – NovaTech Labs (2023–2025)
+          <p>Desarrollo de interfaces web modernas con React y Next.js. Implementación de diseño UI/UX siguiendo estándares de accesibilidad y optimización para SEO.</p>
         </li>
         <li>
-          <strong>Instructor TIC</strong> – SENA (2020–2022)
-          <p>Formación en desarrollo web y programación básica. Asesoría en proyectos académicos y soporte técnico en plataformas educativas.</p>
+          <strong>Analista de Datos</strong> – DataPulse Analytics (2021–2023)
+          <p>Procesamiento y visualización de datos usando Python y Power BI. Generación de reportes automatizados para la toma de decisiones empresariales.</p>
         </li>
         <li>
-          <strong>Desarrollador Full Stack</strong> – Proyecto Freelance (2025)
-          <p>Creación de una plataforma de gestión de hojas de vida con Node.js y React. Implementación de login, generación de PDFs y conexión a base de datos MongoDB.</p>
+          <strong>Desarrollador Backend</strong> – CloudDev Solutions (2020–2021)
+          <p>Construcción de microservicios con Node.js y Express. Gestión de bases de datos relacionales y no relacionales como PostgreSQL y MongoDB.</p>
         </li>
         <li>
-          <strong>Encargado del backend</strong> – techmate solutions (2022)
-          <p>creacion de API rest para techmate solutions, diseño de bases de datos y la logica del proyecto.</p>
+          <strong>Practicante de Desarrollo de Software</strong> – CodeSoft (2019–2020)
+          <p>Apoyo en tareas de mantenimiento de aplicaciones, corrección de bugs y pruebas automatizadas. Participación en equipos ágiles con metodologías Scrum.</p>
         </li>
       </ul>
     </section>
