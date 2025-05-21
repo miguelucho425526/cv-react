@@ -6,7 +6,7 @@ Este proyecto es una hoja de vida (CV) completamente modular desarrollada en **R
 
 ## 📸 Vista previa
 
-![Vista previa del CV](cv-react/src/cv.png)
+![Vista previa del CV](src/cv.png)
 
 > Asegúrate de haber colocado tu captura en `./assets/screenshot.png`. Puedes cambiar esta ruta si usas otra ubicación.
 
