@@ -1,10 +1,11 @@
 export default function Perfil() {
   return (
     <section>
-      <h3>Perfil</h3>
+      <h2>Perfil</h2>
       <p>
-        Tecnologo en Analisis y Desarrollo de software con experiencia en desarrollo web y móvil, apasionado por la tecnología.
-        Mis habilidades son tales como manejo de ciertos lenguajes,Python,Java y soy puntual entregando trabajos 
+        Tecnólogo en Análisis y Desarrollo de Software con experiencia en desarrollo web y móvil. 
+        Apasionado por la tecnología, con habilidades en lenguajes como Python y Java, 
+        y un alto compromiso con la puntualidad en la entrega de proyectos.
       </p>
     </section>
   );

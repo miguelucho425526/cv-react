@@ -1,10 +1,16 @@
 export default function CabeceraCV() {
   return (
     <header>
-      <h1>Yeison Caro</h1>
-      <h2>Desarrollador Back-End </h2>
-      <h3>+57 3014420725</h3>
-      <h4>ycaroorrego@gmail.com</h4>
+      <h1>Jhon Estiben Mosquera</h1>
+      <p>Fullstack developer</p>
+      <address>
+        <div>
+          📞 <a href="tel:+573233173116">+57 3014420725</a>
+        </div>
+        <div>
+          ✉️ <a href="mailto:mosquerapalaciose62@gmail.com">mosquerapalaciose62@gmail.com</a>
+        </div>
+      </address>
     </header>
   );
 }
