@@ -1,5 +1,5 @@
-import CabeceraCV from "./Components/CabeceraCV.jsx";
-import Perfil from "./Components/Perfil.jsx";
+import CabeceraCV from "./components/CabeceraCV.jsx";
+import Perfil from "./components/Perfil.jsx";
 import Educacion from "./Components/Educacion.jsx";
 import Experiencia from "./Components/Experiencia.jsx";
 
